@@ -48,12 +48,13 @@ I’m passionate about **Python**, **Data Science**, **Backend Development**, an
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priti-fonix&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priti-fonix&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priti-fonix&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priti-fonix&layout=compact&theme=transparent)
 
-> 🔄 Replace **YOUR_USERNAME** with your GitHub username.
 
 ---
 
