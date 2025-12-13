@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Priti Kumari!
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile!  thisis official Fonix github Account.
 I’m passionate about **Python**, **Data Science**, **Backend Development**, and creating clean, scalable solutions.
 
 ---
